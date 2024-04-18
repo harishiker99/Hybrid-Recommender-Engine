@@ -13,28 +13,20 @@ This project aims to develop a chatbot that assists users in finding suitable jo
 # Add pickle files
 - Add the dataset, and all pickle files within the saem repository as that of the app.py file
 
-
 # Running the jupyter notebook
 jupyter notebook
 
-
-markdown
-Copy code
 Install dependencies:
 pip install -r requirements.txt
-
-markdown
-Copy code
 
 ## Usage
 1. Run the chatbot application:
 python app.py
 
-less
-Copy code
-2. Access the chatbot through the provided interface.
-3. Follow the prompts to input your preferences, skills, and experience.
-4. Receive personalized job recommendations from the chatbot.
-5. Provide feedback to improve the accuracy of future recommendations.
+
+1. Access the chatbot through the provided interface.
+2. Follow the prompts to input your preferences, skills, and experience.
+3. Receive personalized job recommendations from the chatbot.
+4. Provide feedback to improve the accuracy of future recommendations.
 
 
